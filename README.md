@@ -1,7 +1,7 @@
 # Unix System Inspector
-Author: Dustin (Yen Dah) Hsiang
+Dustin (Yen Dah) Hsiang
 
-## About This Project
+## About
 A Unix system inspector utility giving the user an activity monitor on the system and hardware information with processes and tasks in a top-like format. All processes and tasks information are retrieved from the '/proc/[PID]/status' file.
 
 ### What is proc?
