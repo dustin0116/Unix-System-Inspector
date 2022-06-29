@@ -1,5 +1,4 @@
 # Unix System Inspector
-Dustin (Yen Dah) Hsiang
 
 ## About
 A Unix system inspector utility giving the user an activity monitor on the system and hardware information with processes and tasks in a top-like format. All processes and tasks information are retrieved from the '/proc/[PID]/status' file.
